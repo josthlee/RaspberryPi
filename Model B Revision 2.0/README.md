@@ -13,3 +13,13 @@
 
 # GPIO Pin Layout
 ![RaspberryPiModelBRev2GPIOLayout](https://github.com/josthlee/RaspberryPI/assets/154501794/f3f30c86-eeb9-4cce-bdad-4cfe0fd746b9)
+
+# Raspberry Pi OS
+
+## Download Raspberry Pi OS
+
+https://www.raspberrypi.com/software/operating-systems/
+![WeChat23f1519a76cd7af232947b3d23614e10](https://github.com/josthlee/RaspberryPI/assets/154501794/e52e9271-6f5e-4f2f-a8ad-b7cf02eb6cd1)
+
+## Write image to SD card
+![Screenshot 2023-12-22 at 08 58 56](https://github.com/josthlee/RaspberryPI/assets/154501794/572f4ea6-e9c2-4964-8acf-c21538225857)
