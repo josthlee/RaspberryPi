@@ -23,7 +23,7 @@ https://www.raspberrypi.com/software/operating-systems/
 # Write image to SD card
 ![Screenshot 2023-12-22 at 10 39 03](https://github.com/josthlee/RaspberryPi/assets/154501794/3aeb4dfc-cf77-4b08-b9aa-d8978025c0aa)
 
-
+# pinout command
 
 root@raspberrypi:/home/pi# pinout
 
