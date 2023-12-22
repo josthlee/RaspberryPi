@@ -10,3 +10,6 @@
 
 # PCB Back Image
 ![RaspberryPIModelBRev2Back](https://github.com/josthlee/RaspberryPI/assets/154501794/a688b908-e623-4670-9179-ff38fbba911e)
+
+# GPIO Pin Layout
+![RaspberryPiModelBRev2GPIOLayout](https://github.com/josthlee/RaspberryPI/assets/154501794/f3f30c86-eeb9-4cce-bdad-4cfe0fd746b9)
