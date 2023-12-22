@@ -1,3 +1,19 @@
+# PCB Print "Raspberry Pi 3 Model B+"
+
+* Raspberry Pi 2017
+
+  
+# PCB Front Image
+![24491703210011_ pic](https://github.com/josthlee/RaspberryPi/assets/154501794/23eb04b2-7adc-4dc4-afde-67dee57959b3)
+
+# PCB Back Image
+![24501703210012_ pic](https://github.com/josthlee/RaspberryPi/assets/154501794/1e27949e-ac86-4e5f-a654-2afd30fb143a)
+
+# GPIO Pin Layout
+![GPIO-Pinout-Diagram-2](https://github.com/josthlee/RaspberryPi/assets/154501794/fd8dbf9b-531e-4d27-b869-e5b9e25bf5f0)
+![pi3_5F00_gpio](https://github.com/josthlee/RaspberryPi/assets/154501794/bfdf7e4a-9877-494a-81d8-376a88019a92)
+
+
 root@raspberrypi:/home/pi# pinout
 
 ```
