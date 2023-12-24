@@ -105,8 +105,10 @@ Raspberry Pi Model B Rev 2
 # Raspberry Pi First Time Configuration
 
 ```
-raspi-config
+pi@raspberrypi:~ $ raspi-config
 ```
+![WeChat93f96e8e1a0de7793b3a7517525cfdce](https://github.com/josthlee/RaspberryPi/assets/154501794/b9e18b09-7f98-443f-9044-5a966ebd5cad)
+
 
 # Raspberry Pi Version Identification
 
