@@ -15,9 +15,8 @@
 https://www.raspberrypi.com/software/operating-systems/
 ![292346888-e52e9271-6f5e-4f2f-a8ad-b7cf02eb6cd1](https://github.com/josthlee/RaspberryPi/assets/154501794/30ac086b-b7a3-4fcf-a1dd-cdda9182c13e)
 
-
 # Write image to SD card
-![Screenshot 2023-12-22 at 10 39 03](https://github.com/josthlee/RaspberryPi/assets/154501794/3aeb4dfc-cf77-4b08-b9aa-d8978025c0aa)
+![292347253-572f4ea6-e9c2-4964-8acf-c21538225857](https://github.com/josthlee/RaspberryPi/assets/154501794/409b1f67-6a1a-4b4c-aefa-96eb084f74d0)
 
 # pinout command
 
