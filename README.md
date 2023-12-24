@@ -104,7 +104,9 @@ Raspberry Pi Model B Rev 2
 
 # Raspberry Pi First Time Configuration
 
-#### raspi-config
+```
+raspi-config
+```
 
 # Raspberry Pi Version Identification
 
