@@ -1,19 +1,5 @@
 # Raspberry Pi Model Identification
 
-#### uname -a
-
-```
-pi@raspberrypi:~ $ uname -a
-Linux raspberrypi 6.1.0-rpi7-rpi-v6 #1 Raspbian 1:6.1.63-1+rpt1 (2023-11-24) armv6l GNU/Linux
-```
-
-#### getconf LONG_BIT
-
-```
-pi@raspberrypi:~ $ getconf LONG_BIT
-32
-```
-
 #### /usr/bin/pinout
 
 ```
@@ -119,3 +105,21 @@ Raspberry Pi Model B Rev 2
 # Raspberry Pi First Time Configuration
 
 #### raspi-config
+
+# Raspberry Pi Version Identification
+
+#### uname -a
+
+```
+pi@raspberrypi:~ $ uname -a
+Linux raspberrypi 6.1.0-rpi7-rpi-v6 #1 Raspbian 1:6.1.63-1+rpt1 (2023-11-24) armv6l GNU/Linux
+```
+
+# Raspberry Pi Arch Identification
+
+#### getconf LONG_BIT
+
+```
+pi@raspberrypi:~ $ getconf LONG_BIT
+32
+```
